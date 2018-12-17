@@ -1,1 +1,1 @@
-# mybatis-genarator-plugins
+# mybatis-generator-plugins
